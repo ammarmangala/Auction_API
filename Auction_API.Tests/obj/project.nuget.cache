@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "f7+VIBzjb1VYotE76Uqu+1PLZ+NuiwHPOR+9FdHR4neKv5NuVZXFPnTpaK0N361QK4/E3esNhZScDFtQJvjHSg==",
+  "dgSpecHash": "5QdK6xnFkxy9PmGnjiRmUeJVWhsv8fv8Gq2799ek4rbZQjEW0aFI08FmKyPe3Mm1g3rVkFBhBEIOhpV4JIDo+A==",
   "success": true,
   "projectFilePath": "C:\\Users\\ammar\\Documents\\Repositories\\C#\\Auction API\\Auction_API.Tests\\Auction_API.Tests.csproj",
   "expectedPackageFiles": [
@@ -52,7 +52,7 @@
     "C:\\Users\\ammar\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\ammar\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\ammar\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
-    "C:\\Users\\ammar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ammar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\ammar\\.nuget\\packages\\nsubstitute\\5.1.0\\nsubstitute.5.1.0.nupkg.sha512",
     "C:\\Users\\ammar\\.nuget\\packages\\nsubstituteautomocker\\1.1.0\\nsubstituteautomocker.1.1.0.nupkg.sha512",
     "C:\\Users\\ammar\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
